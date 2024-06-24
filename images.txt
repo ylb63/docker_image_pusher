@@ -1,1 +1,1 @@
-djmaze/snappymail:latest
+wiznote/wizserver:latest
