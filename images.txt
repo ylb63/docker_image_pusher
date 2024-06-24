@@ -1,1 +1,2 @@
-wiznote/wizserver:latest
+nyanmisaka/jellyfin:10.9.6
+technosoft2000/calibre-web
