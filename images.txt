@@ -1,2 +1,3 @@
-nyanmisaka/jellyfin:10.9.6
+nyanmisaka/jellyfin:v10.9.6
+djmaze/snappymail:v2.36.3
 technosoft2000/calibre-web
