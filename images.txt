@@ -1,1 +1,1 @@
-djmaze/snappymail
+emby/embyserver
