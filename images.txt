@@ -1,1 +1,1 @@
-wekanteam/wekan
+mongodb/mongodb-community-server:latest
