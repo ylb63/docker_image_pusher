@@ -1,1 +1,2 @@
-mongodb/mongodb-community-server:latest
+postgres:13
+joplin/server:latest
