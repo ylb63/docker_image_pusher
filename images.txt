@@ -1,2 +1,1 @@
-postgres:13
-joplin/server:latest
+jlesage/thunderbird
