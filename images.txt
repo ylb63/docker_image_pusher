@@ -1,1 +1,1 @@
-jlesage/thunderbird
+openproject/community:13
