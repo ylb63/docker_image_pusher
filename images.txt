@@ -1,1 +1,1 @@
-gitea/gitea:latest
+wenbowen123/foundationpose
