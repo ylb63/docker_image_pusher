@@ -1,1 +1,2 @@
-sgeniusll/bev_trt:v1
+dreamacro/clash:latest
+haishanh/yacd:latest
