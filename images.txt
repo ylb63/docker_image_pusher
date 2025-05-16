@@ -1,1 +1,1 @@
-lscr.io/linuxserver/msedge:latest
+lscr.io/linuxserver/chromium:latest
