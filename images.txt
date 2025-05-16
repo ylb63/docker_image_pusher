@@ -1,1 +1,1 @@
-kasmweb/edge:1.14.0
+lscr.io/linuxserver/msedge:latest
