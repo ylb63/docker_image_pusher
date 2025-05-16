@@ -1,2 +1,1 @@
-dreamacro/clash:latest
-haishanh/yacd:latest
+kasmweb/edge:1.14.0
