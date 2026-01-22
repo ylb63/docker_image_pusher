@@ -1,1 +1,1 @@
-mysql:8.0
+redmine:6.1.1
